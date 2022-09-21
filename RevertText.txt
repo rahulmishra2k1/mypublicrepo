@@ -1,1 +1,0 @@
-This file will is used to show the Revert Command uses.
